@@ -1,4 +1,9 @@
 # ENPM 673 - Project 1
+## Packages Required:
+	1) Numpy
+	2) OpenCV
+	3) SciPy
+	4) Matplotlib
 ## To run the Code:
 
 1A) python3 project1_1a.py
@@ -16,6 +21,7 @@ python project1_2a.py
 2B) python3 project1_2b.py
 		or
 python project1_2b.py
+The command depends on the configuraton of the python in your system
 
 ## IMPORTANT:
 
