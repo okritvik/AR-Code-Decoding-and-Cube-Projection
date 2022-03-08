@@ -1,4 +1,5 @@
-To run the Code:
+# ENPM 673 - Project 1
+## To run the Code:
 
 1A) python3 project1_1a.py
 		or
@@ -16,7 +17,7 @@ python project1_2a.py
 		or
 python project1_2b.py
 
-IMPORTANT:
+## IMPORTANT:
 
 Make sure that you have the following files in the same folder of the codes:
 
@@ -26,7 +27,7 @@ Make sure that you have the following files in the same folder of the codes:
 	4) testudo.png
 	5) testudo.jpg
 
-Note to check the 1B with different Orientations. 
+## Note: To check the 1B with different Orientations. 
 
 1) Change the orientation of the reference frame and (ref_tag1.png) and save the rotated image using the same name (ref_tag1.png)
 The code is written such that the reference tag name is "ref_tag1.png"
