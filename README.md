@@ -1,4 +1,4 @@
-# ENPM 673 - Project 1
+# ENPM 673 - Project 1 - QR Code Detection and Cube Projection 
 ## Packages Required:
 	1) Numpy
 	2) OpenCV
